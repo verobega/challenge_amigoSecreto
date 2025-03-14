@@ -1,6 +1,6 @@
 # Aplicación de Sorteo "Amigo Secreto"
 
-!(assets/amigo-secreto.png)
+![Amigo Secreto](assets/amigo-secreto.png)
 
 
 ## 📌 Descripción
